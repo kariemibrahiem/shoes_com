@@ -1,0 +1,25 @@
+.end{
+    background-image: url(../../material/music.jpg);
+    width: 95%;
+    height: 70vh;
+    background-size: cover;
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 100px;
+    margin: 350px 20px 340px 20px;
+}
+.end h2{
+    color:rgb(47, 160, 208);
+}
+.try{
+    width: 150px;
+}
+
+.bike{
+    position: relative;
+}
+.end_title{
+    position: relative;
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Merienda:wght@300;400;900&family=Nova+Square&family=Poppins:wght@100&family=Quicksand:wght@300&family=Sedgwick+Ave+Display&family=Skranji&family=Space+Mono:ital,wght@1,700&display=swap');
+*{
+    font-family: 'Crimson Pro', serif;
+}
+body{
+    height: 100vh;
+    padding-bottom: 200px;
+    overflow-x: hidden;
+    background-color: black;
+    color: antiquewhite;
+}
+.links{
+text-decoration: none;
+color: blue;
+}
