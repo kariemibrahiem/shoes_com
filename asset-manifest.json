@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoes_com/static/css/main.2d5acb5b.css",
-    "main.js": "/shoes_com/static/js/main.1faff407.js",
+    "main.js": "/shoes_com/static/js/main.14980da7.js",
     "static/media/shirt.png": "/shoes_com/static/media/shirt.fdad44777169161ef883.png",
     "static/media/music.jpg": "/shoes_com/static/media/music.d1f1efb8054dcd1ceaf4.jpg",
     "static/media/ball.png": "/shoes_com/static/media/ball.b07d5df5cc01224bf524.png",
@@ -16,10 +16,10 @@
     "static/media/back-star.avif": "/shoes_com/static/media/back-star.95a286458740ee216cfe.avif",
     "index.html": "/shoes_com/index.html",
     "main.2d5acb5b.css.map": "/shoes_com/static/css/main.2d5acb5b.css.map",
-    "main.1faff407.js.map": "/shoes_com/static/js/main.1faff407.js.map"
+    "main.14980da7.js.map": "/shoes_com/static/js/main.14980da7.js.map"
   },
   "entrypoints": [
     "static/css/main.2d5acb5b.css",
-    "static/js/main.1faff407.js"
+    "static/js/main.14980da7.js"
   ]
 }
